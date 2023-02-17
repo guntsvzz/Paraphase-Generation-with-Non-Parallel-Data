@@ -6,8 +6,8 @@
 ```
 st123012	Todsavad Tangtortan
 st123010	Tonson Praphabkul
-st123 Ati tesakulsiri
-st123418 Rambo SORN
+st123       Ati tesakulsiri
+st123418    Rambo SORN
 ```
 
 ## Dependencies :
