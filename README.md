@@ -6,7 +6,7 @@
 ```
 st123012	Todsavad Tangtortan
 st123010	Tonson Praphabkul
-st123       Ati tesakulsiri
+st123009 Ati tesakulsiri
 st123418    Rambo SORN
 ```
 
