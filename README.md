@@ -23,5 +23,5 @@ st123418    Rambo SORN
 ## Future Work :
 
 ## Reference :
-(SCPNs)[https://aclanthology.org/N18-1170/]
-(SynPG)[https://aclanthology.org/2021.eacl-main.88/]
+Adversarial Example Generation with Syntactically Controlled Paraphrase Networks (SCPNs)[https://aclanthology.org/N18-1170/]
+Generating Syntactically Controlled Paraphrases without Using Annotated Parallel Pairs (SynPG)[https://aclanthology.org/2021.eacl-main.88/]
