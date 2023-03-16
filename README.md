@@ -25,6 +25,10 @@ st123418    Rambo SORN
 ## Reference :
 [Adversarial Example Generation with Syntactically Controlled Paraphrase Networks - SCPNs - 2018](https://aclanthology.org/N18-1170/)
 
+[Style Transformer: Unpaired Text Style Transfer without Disentangled Latent Representation - 2019](https://aclanthology.org/P19-1601/)
+
+[“Transforming” Delete, Retrieve, Generate Approach for Controlled Text Style Transfer](https://aclanthology.org/D19-1322/)
+
 [Reformulating Unsupervised Style Transfer as Paraphrase Generation - STRAP - 2020](https://aclanthology.org/2020.emnlp-main.55/)
 
 [Neural Syntactic Preordering for Controlled Paraphrase Generation - 2020](https://aclanthology.org/2020.acl-main.22/)
