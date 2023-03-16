@@ -23,3 +23,5 @@ st123418    Rambo SORN
 ## Future Work :
 
 ## Reference :
+(SCPNs)[https://aclanthology.org/N18-1170/]
+(SynPG)[https://aclanthology.org/2021.eacl-main.88/]
