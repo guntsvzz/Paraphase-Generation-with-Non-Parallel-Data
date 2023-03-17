@@ -29,6 +29,10 @@ st123418    Rambo SORN
 
 [“Transforming” Delete, Retrieve, Generate Approach for Controlled Text Style Transfer - GST - 2019](https://aclanthology.org/D19-1322/)
 
+[Controllable Paraphrase Generation with a Syntactic Exemplar - CGEN - 2019](https://aclanthology.org/P19-1599/)
+
+[Syntax-Guided Controlled Generation of Paraphrases - SGPG - 2020](https://aclanthology.org/2020.tacl-1.22/)
+
 [Reformulating Unsupervised Style Transfer as Paraphrase Generation - STRAP - 2020](https://aclanthology.org/2020.emnlp-main.55/)
 
 [Neural Syntactic Preordering for Controlled Paraphrase Generation - REAP - 2020](https://aclanthology.org/2020.acl-main.22/)
