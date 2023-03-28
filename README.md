@@ -1,4 +1,4 @@
-# Thai-Paraphase
+# Paraphase-Generation-with-Non-Parallel-Data
  
 ## Objectives :
 
