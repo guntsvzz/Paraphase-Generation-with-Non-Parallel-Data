@@ -1,3 +1,5 @@
 PredictingWord-ThaiNLP
 Datasets/
 QCPG/
+*.pickle
+.vector_cache
