@@ -4,4 +4,3 @@ QCPG/
 *.pickle
 .vector_cache
 *.h5
-*.pkl
