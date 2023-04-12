@@ -2,5 +2,6 @@ PredictingWord-ThaiNLP
 Datasets/
 QCPG/
 *.pickle
+*.pkl
 .vector_cache
 *.h5
