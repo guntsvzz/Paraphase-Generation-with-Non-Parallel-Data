@@ -5,3 +5,4 @@ QCPG/
 *.pkl
 .vector_cache
 *.h5
+*.pt
