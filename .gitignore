@@ -6,3 +6,8 @@ QCPG/
 .vector_cache
 *.h5
 *.pt
+data/para-nmt-5m-processed.txt
+data/bow_*
+adDsetDonebyati/*
+subwordnmt/*
+__pycache__/
