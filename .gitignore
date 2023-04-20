@@ -10,4 +10,5 @@ data/para-nmt-5m-processed.txt
 data/bow_*
 adDsetDonebyati/*
 subwordnmt/*
+non-used/
 __pycache__/
