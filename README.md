@@ -9,18 +9,7 @@ st123010	Tonson Praphabkul
 st123009    Ati tesakulsiri 
 st123418    Rambo SORN
 ```
-
-## Dependencies :
-
-## Components :
-
-## Result :
-
-## Conclusion :
-
-## Limitation :
-
-## Future Work :
+##Deployment
 
 ## Reference :
 [Adversarial Example Generation with Syntactically Controlled Paraphrase Networks - SCPNs - 2018](https://aclanthology.org/N18-1170/)
