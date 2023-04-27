@@ -13,13 +13,13 @@ st123418    Rambo SORN
 
 ## Deployment
 - ### Predict with Full SynPG
-<img src = 'img/f.png' width=400>
+<img src = 'img/f.png' width=600>
 
 - ### Predict with Small Dataset trained SynPG
-<img src = 'img/one.png' width=400>
+<img src = 'img/one.png' width=600>
 
 - ### Predict with Adversarial SynPG
-<img src = 'img/adv.png' width=400>
+<img src = 'img/adv.png' width=600>
 
 -----------------------
 
