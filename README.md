@@ -9,7 +9,19 @@ st123010	Tonson Praphabkul
 st123009    Ati tesakulsiri 
 st123418    Rambo SORN
 ```
-##Deployment
+-----------------
+
+## Deployment
+- ### Predict with Full SynPG
+<img src = 'img/f.png' width=600>
+
+- ### Predict with Small Dataset trained SynPG
+<img src = 'img/one.png' width=600>
+
+- ### Predict with Adversarial SynPG
+<img src = 'img/adv.png' width=600>
+
+-----------------------
 
 ## Reference :
 [Adversarial Example Generation with Syntactically Controlled Paraphrase Networks - SCPNs - 2018](https://aclanthology.org/N18-1170/)
